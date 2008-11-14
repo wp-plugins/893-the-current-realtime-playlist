@@ -3,8 +3,7 @@ Contributors: clintmcmahon
 Tags: music, mpr, npr, the current,89.3,ajax,realtime playlist
 Requires at least: 2.3
 Tested up to: 2.6
-Stable tag: 1.0
-Contact: clint.mcmahon@gmail.com
+Stable tag: .01
 
 Displays the song currently being played on 89.3 The Current.
 == Description ==
